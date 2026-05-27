@@ -72,6 +72,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "databases-with-sqlite",
+      "title": "Databases with SQLite",
+      "description": "Store and query persistent data with SQLite using Python.",
+      "path": "assignments/databases-with-sqlite",
+      "dueDate": "2026-06-03",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
